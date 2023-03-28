@@ -58,7 +58,7 @@ fun collapsingToolbar(vm : MainViewModel , ptrState : PullRefreshState){
 
             AsyncImage(modifier = Modifier
                 .fillMaxWidth()
-                .height(200.dp), contentScale = ContentScale.Crop,model = "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/67bd6e8d-605f-4803-92a3-624298b4b26e/dfqj9ag-917cf1bf-1399-4a93-8675-0d465cbb263c.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzY3YmQ2ZThkLTYwNWYtNDgwMy05MmEzLTYyNDI5OGI0YjI2ZVwvZGZxajlhZy05MTdjZjFiZi0xMzk5LTRhOTMtODY3NS0wZDQ2NWNiYjI2M2MucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.8EecUTv7RtQDEA21EGGymdWxYmz6HrTz53bIYzrkg6I" , contentDescription = "charger" )
+                .height(200.dp), contentScale = ContentScale.Crop,model = "https://images.wallpaperscraft.com/image/single/silhouette_travel_hill_187424_300x188.jpg" , contentDescription = "charger" )
 
             Text(
                 "Where to?",

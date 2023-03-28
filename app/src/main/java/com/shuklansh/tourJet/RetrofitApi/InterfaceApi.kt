@@ -7,7 +7,7 @@ import retrofit2.http.Query
 
 interface InterfaceApi {
 
-    @Headers("Authorization: YOURAPIKEY")
+    @Headers("Authorization: APIKEY")
     @GET("v1/search")
     suspend fun getImages(
         @Query("query") query: String,
